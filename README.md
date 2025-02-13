@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **knicho4492@gmail.com**
 
+<p>Software developer with 5 years of experience in customer service and hospitality, specializing in front-end development (HTML, CSS, Bootstrap). Expert at creating intuitive user experiences by blending technical expertise with strong communication skills. Adept at solving problems in fast-paced environments and dedicated to leveraging technology to enhance client satisfaction through collaborative teamwork.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kennedy-lall-7198901a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennedy-lall-7198901a8" height="30" width="40" /></a>
